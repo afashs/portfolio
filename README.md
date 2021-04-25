@@ -32,6 +32,30 @@
   </ul>
 </details>
 
+<div align=center>
+
+## :dolphin: Career
+
+</div>
+
+<details>
+  <summary>:airplane: <b>공군 부사관 [2012.03 ~ 2019.05]</b></summary>
+  <ul>
+    <code>대구</code>
+    <li>제 11 전투비행단 소속 공중감시 및 항공무기통제담당</li>
+    <li>linux 방공관제 체계를 사용한 공군 요격관제 업무</li>
+  </ul>
+  <ul>
+    <code>안양</code>
+    <li>수리산 통합사격통제레이더 담당</li>
+    <li>UAV 드론에 대한 대공방어 및 방위환산시스템 개발 참여</li>
+  </ul>
+  <ul>
+    <code>오산</code>
+    <li>미군 합동 방공관제 전술통제담당</li>
+    <li>전술통제관 지휘보조 및 미식별기 요격작전 지휘보조</li>
+  </ul>
+</details>
 
 
 <div align=center>
@@ -41,7 +65,7 @@
 </div>
 
 <details>
-  <summary>:mortar_board: <b>Educatiion</b></summary>
+  <summary>:mortar_board: <b>Education</b></summary>
   <ul>
     <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">공군항공과학고등학교 41기 졸업 </a> [ 2009 ~ 2012 ]</li>
     <li><a href="https://www.hycu.ac.kr/user/maSnEx/goMain/30058/index.do">한양사이버대학교 응용소프트웨어공학과 </a> [ 2021 ~ 휴학 ] </li>
