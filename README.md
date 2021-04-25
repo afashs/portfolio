@@ -32,6 +32,33 @@
   </ul>
 </details>
 
+
+<div align=center>
+
+## :rocket: Skills
+
+</div>
+
+<details>
+  <summary><img src="https://img.shields.io/badge/#007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp;<b>자바</b></summary>
+  <ul>
+    <code>팀워크</code>
+    <li>문서화, 대화의 중요성, 사소한 갑론을박에 목메이지 않습니다.</li>
+    <li>소통과 협업에 많은 시간을 투자할수록 모두가 만족할 만한 결과가 나옵니다.</li>
+  </ul>
+  <ul>
+    <code>트랜드</code>
+    <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
+    <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
+  </ul>
+  <ul>
+    <code>퍼포먼스</code>
+    <li>트랜드를 좋아하는 반면, 기능의 핵심적인 본질에 집중합니다.</li>
+    <li>황금 계산기, 황금 변기도 본질은 계산기, 변기 입니다.</li>
+  </ul>
+</details>
+
+
 <div align=center>
 
 ## :dolphin: Career
