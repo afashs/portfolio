@@ -46,35 +46,38 @@
     <li>PHP, JavaScript, TypeScript</li>
   </ul>
   <ul>
-    <code>UI</code>
-    <li>React</li>
-    <li>Bootstrap</li>
+    UI / UX Library
+    <li>React, Bootstrap, SCSS</li>
   </ul>
   <ul>
-    <code>FrameWork</code>
-    <li>Code Ignitor</li>
-    <li>GnuBoard</li>
+    FrameWork
+    <li>Code Ignitor, GnuBoard</li>
+  </ul>
+  <ul>
+    Statement Management
+    <li>Jquery, Redux</li>
   </ul>
 </details>
 
 <details>
   <summary>BackEnd</summary>
   <ul>
-    <code>Programming Language</code>
-    <li>java</li>
-    <li>javaScript</li>
+    Programming Language
+    <li>java, javaScript</li>
   </ul>
   <ul>
     <code>Database</code>
-    <li>Oracle</li>
-    <li>mariaDB</li>
+    <li>Oracle, mariaDB</li>
   </ul>
+</details>
+<details>
+  <summary>DevOps</summary>
   <ul>
-    <code>DevOps</code>
     <li>배포 : AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
     <li>도메인 : Gabia, Cafe24</li>
     <li>프로젝트 일정관리 : Trello, GitHub Project Kanban</li>
     <li>버전관리 : Git, SVN</li>
+    <li>디자인협업 : Figma</li>
   </ul>
 </details>
 <!-- <details>
