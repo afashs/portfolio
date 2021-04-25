@@ -40,7 +40,7 @@
 </div>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;<b>자바</b></summary>
+  <summary><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></summary>
   <ul>
     <code>팀워크</code>
     <li>문서화, 대화의 중요성, 사소한 갑론을박에 목메이지 않습니다.</li>
