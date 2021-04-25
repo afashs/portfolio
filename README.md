@@ -2,6 +2,7 @@
 
 ## :paperclip: Profile
 
+</div>
 <details>
   <summary>:octocat: <b>인적사항</b></summary>
   <ul>
@@ -12,8 +13,6 @@
     <li>주소 : 서울특별시 강남구 개포동 </li>
   </ul>
 </details>
-
-</div>
 
 
 
