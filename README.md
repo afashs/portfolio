@@ -56,6 +56,21 @@
     <li>전술통제관 지휘보조 및 미식별기 요격작전 지휘보조</li>
   </ul>
 </details>
+<details>
+  <summary>:computer: <b>소프트웨어 엔지니어 [2020.01 ~ 2020.09]</b></summary>
+  <ul>
+    <code>(주)에이에스티</code> [2020.01 ~ 2020.06]
+    <li>JAVA, PHP 담당 연구원</li>
+  </ul>
+  <ul>
+    <code>프리랜서</code> [2020.06 ~ 2021.04]
+    <li>PHP 그누보드 사이트 코드수정 및 웹툰사이트, 구인구직사이트 개발</li>
+  </ul>
+  <ul>
+    <code>node개발자</code> [2021.05 ~ ]
+    <li> ...ing </li>
+  </ul>
+</details>
 
 
 <div align=center>
