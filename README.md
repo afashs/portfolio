@@ -72,12 +72,20 @@
 </details>
 <details>
   <summary>DevOps</summary>
-  <ul>
-    <li>배포 : AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
-    <li>도메인 : Gabia, Cafe24</li>
-    <li>프로젝트 일정관리 : Trello, GitHub Project Kanban</li>
-    <li>버전관리 : Git, SVN</li>
-    <li>디자인협업 : Figma</li>
+  <ul>배포
+    <li>AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
+  </ul>
+  <ul>도메인
+    <li>Gabia, Cafe24</li>
+  </ul>
+  <ul>프로젝트 일정관리
+    <li>Trello, GitHub Project Kanban</li>
+  </ul>
+  <ul>버전관리
+    <li>Git, SVN</li>
+  </ul>
+  <ul>디자인협업
+    <li>Figma</li>
   </ul>
 </details>
 <!-- <details>
