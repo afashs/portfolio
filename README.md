@@ -40,21 +40,50 @@
 </div>
 
 <details>
-  <summary><span style="height:100%"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></span></summary>
+  <summary>FrontEnd</summary>
   <ul>
-    <code>팀워크</code>
-    <li>문서화, 대화의 중요성, 사소한 갑론을박에 목메이지 않습니다.</li>
-    <li>소통과 협업에 많은 시간을 투자할수록 모두가 만족할 만한 결과가 나옵니다.</li>
+    <code>Mobile</code>
+    <li>Android</li>
+    <li></li>
   </ul>
   <ul>
-    <code>트랜드</code>
+    <code>Front</code>
     <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
     <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
   </ul>
   <ul>
-    <code>퍼포먼스</code>
-    <li>트랜드를 좋아하는 반면, 기능의 핵심적인 본질에 집중합니다.</li>
-    <li>황금 계산기, 황금 변기도 본질은 계산기, 변기 입니다.</li>
+    <code>Back</code>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
+<details>
+  <summary>FrontEnd</summary>
+  <ul>
+    <code>Mobile</code>
+    <li>Android</li>
+    <li></li>
+  </ul>
+  <ul>
+    <code>Front</code>
+    <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
+    <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
+  </ul>
+  <ul>
+    <code>Back</code>
+    <li></li>
+    <li></li>
+  </ul>
+</details>
+<details>
+  <summary>Mobile</summary>
+  <ul>
+    <code>Android</code>
+    <li>Oreo 기반 대응을 목적으로 맛집 어플 개발경험</li>
+    <li>사용언어 : Java</li>
+    <li>서버 및 푸시알람 : Firebase / FireStorage</li>
+    <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
+    <li>[프로젝트 영상](https://youtu.be/wF02I2t2ssM)</li>
   </ul>
 </details>
 
