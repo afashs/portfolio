@@ -63,13 +63,10 @@
     <li>JAVA, PHP 담당 연구원</li>
   </ul>
   <ul>
-    <code>프리랜서</code> [2020.06 ~ 2021.04]
+    <code>외주</code> [2020.06 ~ 2020.09]
     <li>PHP 그누보드 사이트 코드수정 및 웹툰사이트, 구인구직사이트 개발</li>
   </ul>
-  <ul>
-    <code>node개발자</code> [2021.05 ~ ]
-    <li> ...ing </li>
-  </ul>
+  
 </details>
 
 
