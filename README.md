@@ -79,7 +79,7 @@
   <summary>Mobile</summary>
   <ul>
     <code>Android</code>
-    <li>Oreo 기반 대응을 목적으로 맛집 어플 개발경험</li>
+    <li>Oreo버전 대응 맛집 어플 개발경험</li>
     <li>사용언어 : Java</li>
     <li>서버 및 푸시알람 : Firebase / FireStorage</li>
     <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
