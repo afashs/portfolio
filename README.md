@@ -83,7 +83,7 @@
     <li>사용언어 : Java</li>
     <li>서버 및 푸시알람 : Firebase / FireStorage</li>
     <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
-    <li>[프로젝트 영상](https://youtu.be/wF02I2t2ssM)</li>
+    <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
   </ul>
 </details>
 
