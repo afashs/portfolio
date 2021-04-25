@@ -65,17 +65,19 @@
     <li></li>
   </ul>
   <ul>
-    <code>Front</code>
-    <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
-    <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
+    <code>BackEnd</code>
+    <li>데이터베이스 : Oracle, mariaDB</li>
+    <li></li>
   </ul>
   <ul>
-    <code>Back</code>
-    <li></li>
-    <li></li>
+    <code>DevOps</code>
+    <li>배포 : AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
+    <li>도메인 : Gabia, Cafe24</li>
+    <li>프로젝트 일정관리 : Trello, GitHub Project Kanban</li>
+    <li>버전관리 : Git, SVN</li>
   </ul>
 </details>
-<details>
+<!-- <details>
   <summary>Mobile</summary>
   <ul>
     <code>Android</code>
@@ -85,7 +87,7 @@
     <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
   </ul>
-</details>
+</details> -->
 
 
 <div align=center>
