@@ -42,32 +42,33 @@
 <details>
   <summary>FrontEnd</summary>
   <ul>
-    <code>Mobile</code>
-    <li>Android</li>
-    <li></li>
+    <code>Programming Language</code>
+    <li>PHP</li>
+    <li>JavaScript, TypeScript</li>
   </ul>
   <ul>
-    <code>Front</code>
-    <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
-    <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
+    <code>UI</code>
+    <li>React</li>
+    <li>Bootstrap</li>
   </ul>
   <ul>
-    <code>Back</code>
-    <li></li>
-    <li></li>
+    <code>FrameWork</code>
+    <li>Code Ignitor</li>
+    <li>GnuBoard</li>
   </ul>
 </details>
+
 <details>
-  <summary>FrontEnd</summary>
+  <summary>BackEnd</summary>
   <ul>
-    <code>Mobile</code>
-    <li>Android</li>
-    <li></li>
+    <code>Programming Language</code>
+    <li>java</li>
+    <li>javaScript</li>
   </ul>
   <ul>
-    <code>BackEnd</code>
-    <li>데이터베이스 : Oracle, mariaDB</li>
-    <li></li>
+    <code>Database</code>
+    <li>Oracle</li>
+    <li>mariaDB</li>
   </ul>
   <ul>
     <code>DevOps</code>
