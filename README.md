@@ -1,5 +1,9 @@
 
+<div align=center>
+
 ## :closed_book: Education
+
+</div>
 
 <details>
   <summary>:blue_book: <b>Educatiion</b></summary>
