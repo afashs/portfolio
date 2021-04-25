@@ -42,9 +42,8 @@
 <details>
   <summary>FrontEnd</summary>
   <ul>
-    <code>Programming Language</code>
-    <li>PHP</li>
-    <li>JavaScript, TypeScript</li>
+    Programming Language
+    <li>PHP, JavaScript, TypeScript</li>
   </ul>
   <ul>
     <code>UI</code>
