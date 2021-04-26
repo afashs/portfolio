@@ -108,6 +108,8 @@
   <summary>블록체인 예술품 NFT 경매사이트</summary>
   <ul>
     <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
+    <li>인원: 4명</li>  
+    <li>포지션: 백엔드 / 팀장</li>  
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
@@ -118,6 +120,8 @@
   <summary>이상형월드컵, 밸런스게임 사이트</summary>
   <ul>
     <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
+    <li>인원 : 4명</li>
+    <li>포지션 : 프론트엔드 / 팀장</li>
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
@@ -128,7 +132,9 @@
   <summary>수족관 웹게임(Canvas)</summary>
   <ul>
     <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
-    <li>플랫폼 : Web</li>
+    <li>인원 : 개인</li>
+    <li>포지션 : 풀스택</li>
+    <li>플랫폼 : Web</li>    
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
   </ul>
@@ -137,6 +143,8 @@
   <summary>춤동호회 웹페이지 (PHP)</summary>
   <ul>
     <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
+    <li>인원 : 개인</li>
+    <li>포지션 : 풀스택</li>
     <li>플랫폼 : Web</li>
     <li>사용언어 : PHP</li>
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
@@ -146,6 +154,8 @@
   <summary>맛집 어플 (안드로이드)</summary>
   <ul>
     <li>해시태그 기능을 도입한 맛집찾기 어플입니다.</li>
+    <li>인원 : 개인</li>
+    <li>포지션 : 풀스택</li>
     <li>플랫폼 : Mobile(Android)</li>
     <li>사용언어 : Java</li>
     <li>서버 및 푸시알람 : Firebase / FireStorage</li>
@@ -156,6 +166,8 @@
 <details>
   <summary>낚시 게임 (콘솔)</summary>
   <ul>
+    <li>인원 : 개인</li>
+    <li>포지션 : 풀스택</li>
     <li>콘솔 텍스트 게임 RPG 입니다. 상속,멀티쓰레드 환경을 제어하는 것을 훈련하기 위해 구현하였습니다.</li>
     <li>플랫폼 : Console</li>
     <li>사용언어 : Java</li>
