@@ -58,38 +58,41 @@
     <li>CodeIgnitor, GnuBoard</li>
   </ul>
 </details>
+<details>
+  <summary>Statement Management</summary>
   <ul>
-    Statement Management
     <li>Jquery, Redux</li>
   </ul>
+</details>
 
 <details>
-  <summary>Programming Language</summary>
+  <summary>Database</summary>
   <ul> 
-    <li>java : 상속, 멀티쓰레드</li>
-    <li>javaScript: ES6, OOP, ajax</li>
-    <li>php : 
-  </ul>
-  <ul>
-    <code>Database</code>
     <li>Oracle, mariaDB</li>
   </ul>
 </details>
+
 <details>
-  <summary>DevOps</summary>
-  <ul>배포
+  <summary>Deploy</summary>
+  <ul>
     <li>AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
   </ul>
-  <ul>도메인
-    <li>Gabia, Cafe24</li>
+</details>
+<details>
+  <summary>일정관리</summary>
+  <ul>
+    <li>Trello, GitHub Project</li>
   </ul>
-  <ul>프로젝트 일정관리
-    <li>Trello, GitHub Project Kanban</li>
-  </ul>
+</details>
+<details>
+  <summary>버전관리</summary>
   <ul>버전관리
     <li>Git, SVN</li>
   </ul>
-  <ul>디자인협업
+</details>
+<details>
+  <summary>디자인협업</summary>
+  <ul>
     <li>Figma</li>
   </ul>
 </details>
