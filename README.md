@@ -43,7 +43,7 @@
 <details>
   <summary>Programming Language</summary>
   <ul>
-    <li>PHP, JavaScript, TypeScript</li>
+    <li>JavaScript, JAVA, PHP</li>
   </ul>
 
 </details>
@@ -140,6 +140,24 @@
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
+  </ul>
+</details>
+<details>
+  <summary>블록체인 예술품 NFT 경매사이트</summary>
+  <ul>
+    <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
+  </ul>
+</details>
+<details>
+  <summary>이상형월드컵, 밸런스게임 사이트</summary>
+  <ul>
+    <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
   </ul>
 </details>
 
