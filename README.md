@@ -113,6 +113,7 @@
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
+    <li>[영상설명](https://youtu.be/uBEj5ZkDewI)</li>
     <li>[서비스 링크](https://www.exitgift.shop)</li>
   </ul>
 </details>
@@ -125,7 +126,6 @@
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
-    <li>[영상설명](https://youtu.be/uBEj5ZkDewI)</li>
     <li>[서비스 링크](https://urtest.shop)</li>
   </ul>
 </details>
