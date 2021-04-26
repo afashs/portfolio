@@ -113,7 +113,7 @@
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
-    <li>[서비스 링크](https://exitgift.shop)</li>
+    <li>[서비스 링크](https://www.exitgift.shop)</li>
   </ul>
 </details>
 <details>
