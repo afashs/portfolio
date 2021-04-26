@@ -1,6 +1,7 @@
 <div align=center>
 
-## :paperclip: Profile (펼쳐보시면 자세한 사항을 보실 수 있습니다)
+## :paperclip: Profile
+펼쳐서 자세히보기
 
 </div>
 <details open>
