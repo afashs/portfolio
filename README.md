@@ -105,6 +105,44 @@
 </div>
 
 <details>
+  <summary>블록체인 예술품 NFT 경매사이트</summary>
+  <ul>
+    <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
+    <li>[서비스 링크](https://exitgift.shop)</li>
+  </ul>
+</details>
+<details>
+  <summary>이상형월드컵, 밸런스게임 사이트</summary>
+  <ul>
+    <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
+    <li>[서비스 링크](https://urtest.shop)</li>
+  </ul>
+</details>
+<details>
+  <summary>수족관 웹게임(Canvas)</summary>
+  <ul>
+    <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
+  </ul>
+</details>
+<details>
+  <summary>춤동호회 웹페이지 (PHP)</summary>
+  <ul>
+    <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : PHP</li>
+    <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
+  </ul>
+</details>
+<details>
   <summary>맛집 어플 (안드로이드)</summary>
   <ul>
     <li>해시태그 기능을 도입한 맛집찾기 어플입니다.</li>
@@ -122,42 +160,6 @@
     <li>플랫폼 : Console</li>
     <li>사용언어 : Java</li>
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/838)</li>
-  </ul>
-</details>
-<details>
-  <summary>춤동호회 웹페이지 (PHP)</summary>
-  <ul>
-    <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
-    <li>플랫폼 : Web</li>
-    <li>사용언어 : PHP</li>
-    <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
-  </ul>
-</details>
-<details>
-  <summary>수족관 웹게임(Canvas)</summary>
-  <ul>
-    <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
-    <li>플랫폼 : Web</li>
-    <li>사용언어 : JavaScript</li>
-    <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
-  </ul>
-</details>
-<details>
-  <summary>블록체인 예술품 NFT 경매사이트</summary>
-  <ul>
-    <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
-    <li>플랫폼 : Web</li>
-    <li>사용언어 : JavaScript</li>
-    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
-  </ul>
-</details>
-<details>
-  <summary>이상형월드컵, 밸런스게임 사이트</summary>
-  <ul>
-    <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
-    <li>플랫폼 : Web</li>
-    <li>사용언어 : JavaScript</li>
-    <li>[프로젝트 소개](https://github.com/codestates/exitGiftShop-client)</li>
   </ul>
 </details>
 
@@ -220,5 +222,19 @@
   <ul>
     <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">팀노바 5기 응용 1단계 중도포기 </a> [ 2019.05 ~ 2019.12 ]</li>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
+  </ul>
+</details>
+
+<div align=center>
+
+## :triangular_ruler: Certificate
+
+</div>
+
+<details>
+  <summary><b>자격증</b></summary>
+  <ul>
+    <li>정보기기 운용 기능사 [ 2010. 05 ]</li>
+    <li>운전면허 2종 자동 [ 2012. 04 ] </li>
   </ul>
 </details>
