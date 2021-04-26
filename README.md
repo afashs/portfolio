@@ -40,30 +40,35 @@
 </div>
 
 <details>
-  <summary>FrontEnd</summary>
+  <summary>Programming Language</summary>
   <ul>
-    Programming Language
     <li>PHP, JavaScript, TypeScript</li>
   </ul>
+
+</details>
+<details>
+  <summary>UI / UX Library</summary>
   <ul>
-    UI / UX Library
     <li>React, Bootstrap, SCSS</li>
   </ul>
+</details>
+<details>
+  <summary>FrameWork</summary>
   <ul>
-    FrameWork
-    <li>Code Ignitor, GnuBoard</li>
+    <li>CodeIgnitor, GnuBoard</li>
   </ul>
+</details>
   <ul>
     Statement Management
     <li>Jquery, Redux</li>
   </ul>
-</details>
 
 <details>
-  <summary>BackEnd</summary>
-  <ul>
-    Programming Language
-    <li>java, javaScript</li>
+  <summary>Programming Language</summary>
+  <ul> 
+    <li>java : 상속, 멀티쓰레드</li>
+    <li>javaScript: ES6, OOP, ajax</li>
+    <li>php : 
   </ul>
   <ul>
     <code>Database</code>
