@@ -1,9 +1,9 @@
 <div align=center>
 
-## :paperclip: Profile
+## :paperclip: Profile (펼쳐보시면 자세한 사항을 보실 수 있습니다)
 
 </div>
-<details>
+<details open>
   <summary>:octocat: <b>인적사항</b></summary>
   <ul>
     <li>이름 : 서정욱</li>
@@ -86,7 +86,7 @@
 </details>
 <details>
   <summary>버전관리</summary>
-  <ul>버전관리
+  <ul>
     <li>Git, SVN</li>
   </ul>
 </details>
@@ -96,17 +96,24 @@
     <li>Figma</li>
   </ul>
 </details>
-<!-- <details>
-  <summary>Mobile</summary>
+
+<div align=center>
+
+## :mag_right: Project
+
+</div>
+
+<details>
+  <summary>맛집 어플</summary>
   <ul>
-    <code>Android</code>
-    <li>Oreo버전 대응 맛집 어플 개발경험</li>
+    <li>플랫폼 : Mobile(Android)</li>
     <li>사용언어 : Java</li>
     <li>서버 및 푸시알람 : Firebase / FireStorage</li>
     <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
   </ul>
-</details> -->
+</details>
+
 
 
 <div align=center>
