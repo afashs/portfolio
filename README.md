@@ -105,13 +105,41 @@
 </div>
 
 <details>
-  <summary>맛집 어플</summary>
+  <summary>맛집 어플 (안드로이드)</summary>
   <ul>
+    <li>해시태그 기능을 도입한 맛집찾기 어플입니다.</li>
     <li>플랫폼 : Mobile(Android)</li>
     <li>사용언어 : Java</li>
     <li>서버 및 푸시알람 : Firebase / FireStorage</li>
     <li>데이터set : 음식점, 업소정보 공공데이터 api</li>
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
+  </ul>
+</details>
+<details>
+  <summary>낚시 게임 (콘솔)</summary>
+  <ul>
+    <li>콘솔 텍스트 게임 RPG 입니다. 상속,멀티쓰레드 환경을 제어하는 것을 훈련하기 위해 구현하였습니다.</li>
+    <li>플랫폼 : Console</li>
+    <li>사용언어 : Java</li>
+    <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/838)</li>
+  </ul>
+</details>
+<details>
+  <summary>춤동호회 웹페이지 (PHP)</summary>
+  <ul>
+    <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : PHP</li>
+    <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
+  </ul>
+</details>
+<details>
+  <summary>수족관 웹게임(Canvas)</summary>
+  <ul>
+    <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
   </ul>
 </details>
 
