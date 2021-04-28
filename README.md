@@ -116,7 +116,7 @@
     <li>[영상설명](https://youtu.be/uBEj5ZkDewI)</li>
     <li>[서비스 링크](https://www.exitgift.shop)</li>
     
-    ![2021-04-28 09 54 40](https://user-images.githubusercontent.com/56165665/116330128-d19e9300-a807-11eb-9ece-229c7bf7e948.png)
+![2021-04-28 09 54 40](https://user-images.githubusercontent.com/56165665/116330128-d19e9300-a807-11eb-9ece-229c7bf7e948.png)
 
   </ul>
 </details>
@@ -132,7 +132,7 @@
     <li>[영상설명](https://youtu.be/9JElFQuS2cE)</li>
     <li>[서비스 링크](https://urtest.shop)</li>
     
-    ![1](https://user-images.githubusercontent.com/56165665/116329896-41f8e480-a807-11eb-8aaa-eb641da4f4c8.gif)
+![1](https://user-images.githubusercontent.com/56165665/116329896-41f8e480-a807-11eb-8aaa-eb641da4f4c8.gif)
     
   </ul>
 </details>
@@ -146,7 +146,7 @@
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
     
-    ![3](https://user-images.githubusercontent.com/56165665/116330177-eb3fda80-a807-11eb-8318-651785b5817b.png)
+![3](https://user-images.githubusercontent.com/56165665/116330177-eb3fda80-a807-11eb-8318-651785b5817b.png)
 
   </ul>
 </details>
