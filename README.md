@@ -206,6 +206,24 @@
 
 </div>
 
+
+<details>
+  <summary>:computer: <b>소프트웨어 엔지니어 [2020.01 ~ 2020.09]</b></summary>
+  <ul>
+    <code>(주)에이에스티</code> [2020.01 ~ 2020.06]
+    <li>사내 PMS개발</li>
+    <li>2020.02~2020.06(5개월)</li>
+    <li>사용언어 : PHP</li>
+    <li>플랫폼 : CodeIgnitor</li>
+    <li>요약 : 외부업체 PMS비용 감소를 목적으로 사내 솔루션 개발에 참여하였습니다</li>
+    <li>포지션: 게스트사이트, 게시판, 일정관리 및 이슈관리 툴 풀스택 개발</li>
+  </ul>
+  <ul>
+    <code>외주</code> [2020.06 ~ 2020.09]
+    <li>PHP 그누보드 사이트 코드수정 및 웹툰사이트, 구인구직사이트 개발</li>
+  </ul>
+  
+</details>
 <details>
   <summary>:airplane: <b>공군 부사관 [2012.03 ~ 2019.05]</b></summary>
   <ul>
@@ -224,30 +242,20 @@
     <li>전술통제관 지휘보조 및 미식별기 요격작전 지휘보조</li>
   </ul>
 </details>
-<details>
-  <summary>:computer: <b>소프트웨어 엔지니어 [2020.01 ~ 2020.09]</b></summary>
-  <ul>
-    <code>(주)에이에스티</code> [2020.01 ~ 2020.06]
-    <li>사내 PMS개발</li>
-    <li>2020.02~2020.06(5개월)</li>
-    <li>사용언어 : PHP</li>
-    <li>플랫폼 : CodeIgnitor</li>
-    <li>요약 : 외부업체 PMS비용 감소를 목적으로 사내 솔루션 개발에 참여하였습니다</li>
-    <li>포지션: 게스트사이트, 게시판, 일정관리 및 이슈관리 툴 풀스택 개발</li>
-  </ul>
-  <ul>
-    <code>외주</code> [2020.06 ~ 2020.09]
-    <li>PHP 그누보드 사이트 코드수정 및 웹툰사이트, 구인구직사이트 개발</li>
-  </ul>
-  
-</details>
-
 
 <div align=center>
 
 ## :closed_book: Education
 
 </div>
+
+<details>
+  <summary>:green_book: <b>CS Learning</b></summary>
+  <ul>
+    <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">팀노바 5기 응용 1단계 중도포기 </a> [ 2019.05 ~ 2019.12 ]</li>
+    <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
+  </ul>
+</details>
 
 <details>
   <summary>:mortar_board: <b>Education</b></summary>
@@ -257,13 +265,7 @@
   </ul>
 </details>
 
-<details>
-  <summary>:green_book: <b>CS Learning</b></summary>
-  <ul>
-    <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">팀노바 5기 응용 1단계 중도포기 </a> [ 2019.05 ~ 2019.12 ]</li>
-    <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
-  </ul>
-</details>
+
 
 <div align=center>
 
