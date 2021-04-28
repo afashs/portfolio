@@ -146,7 +146,8 @@
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://youtu.be/KDBOjpRjKec)</li>
     
-![3](https://user-images.githubusercontent.com/56165665/116330177-eb3fda80-a807-11eb-8318-651785b5817b.png)
+![스크린샷, 2021-01-18 16-30-53](https://user-images.githubusercontent.com/56165665/116330304-2fcb7600-a808-11eb-971d-bc6505483bd0.png)
+
 
   </ul>
 </details>
