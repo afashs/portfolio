@@ -43,7 +43,7 @@
 <details>
   <summary>Programming Language</summary>
   <ul>
-    <li>JavaScript, JAVA, PHP</li>
+    <li>JavaScript, PHP</li>
   </ul>
 
 </details>
