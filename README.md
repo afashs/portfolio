@@ -129,7 +129,7 @@
     <li>포지션 : 프론트엔드 / 팀장</li>
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
-    <li>[프로젝트 소개](https://github.com/afashs/urtest-client)</li>
+    <li>[프로젝트 소개](https://github.com/afashs/ur-client)</li>
     <li>[영상설명](https://youtu.be/9JElFQuS2cE)</li>
     <li>[서비스 링크](https://urtest.shop)</li>
     
