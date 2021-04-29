@@ -113,7 +113,7 @@
     <li>포지션: 백엔드 / 팀장</li>  
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
-    <li>[프로젝트 소개](https://github.com/afashs/exitGiftShop-client)</li>
+    <li>[프로젝트 소개](https://github.com/afashs/exit-client)</li>
     <li>[영상설명](https://youtu.be/uBEj5ZkDewI)</li>
     <li>[서비스 링크](https://www.exitgift.shop)</li>
     
@@ -193,7 +193,7 @@
   <ul>
     <li>인원 : 개인</li>
     <li>포지션 : 프론트엔드</li>
-    <li>상태관리에 대한 발표입니다. 저의 개발프로세스 및 용어선택 등을 확인하실 수 있습니다.</li>
+    <li>상태관리 발표 : 개인 개발프로세스 및 용어선택 확인가능</li>
     <li>[Redux 없어도 상태관리 되던데?](https://youtu.be/vqvH-wjDaB0)</li>
   </ul>
 </details>
