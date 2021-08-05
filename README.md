@@ -216,9 +216,17 @@
 
 <details>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
-
   <ul>
-    <code>(주)뭉치</code> [2020.01 ~ 2020.06]
+    <code>(주)엠티커뮤니케이션</code> [2021.07 ~ ]
+    <li>java 백엔드, react 프론트 담당</li>
+    <li>2021.07 ~ (재직중)</li>
+    <li>사용언어 : java, JavaScript</li>
+    <li>플랫폼 : Spring, NodeJS </li>
+    <li>요약 : 스마트 팩토리 프로젝트 진행 중</li>
+    <li>포지션: react 프론트, java 백엔드</li>
+  </ul>
+  <ul>
+    <code>(주)뭉치</code> [2021.05 ~ 2021.07]
     <li>리눅스 시스템 관제, mysql/maria 및 node api, 웹 프론트 담당</li>
     <li>2021.05~2020.07(2개월)</li>
     <li>사용언어 : PHP, java, JavaScript</li>
