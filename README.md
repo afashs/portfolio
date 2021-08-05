@@ -216,23 +216,24 @@
 
 <details>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
+
   <ul>
-    <code>(주)뭉차</code> [2020.01 ~ 2020.06]
-    <li>사내 PMS개발</li>
-    <li>2020.02~2020.06(5개월)</li>
-    <li>사용언어 : PHP</li>
-    <li>플랫폼 : CodeIgnitor</li>
-    <li>요약 : 외부업체 PMS비용 감소를 목적으로 사내 솔루션 개발에 참여하였습니다</li>
-    <li>포지션: 게스트사이트, 게시판, 일정관리 및 이슈관리 툴 풀스택 개발</li>
-  </ul>
-  <ul>
-    <code>(주)에이에스티</code> [2020.01 ~ 2020.06]
+    <code>(주)뭉치</code> [2020.01 ~ 2020.06]
     <li>리눅스 시스템 관제, mysql/maria 및 node api, 웹 프론트 담당</li>
     <li>2021.05~2020.07(2개월)</li>
     <li>사용언어 : PHP, java, JavaScript</li>
     <li>플랫폼 : Spring, CodeIgnitor </li>
     <li>요약 : node 백엔드 담당 서버개발 및 php 풀스택 개발, 우분투 서버관제를 담당했습니다</li>
     <li>포지션: php 풀스택, node 백엔드, java 프론트</li>
+  </ul>
+  <ul>
+    <code>(주)에이에스티홀딩스</code> [2020.01 ~ 2020.06]
+    <li>사내 PMS개발</li>
+    <li>2020.02~2020.06(5개월)</li>
+    <li>사용언어 : PHP</li>
+    <li>플랫폼 : CodeIgnitor</li>
+    <li>요약 : 외부업체 PMS비용 감소를 목적으로 사내 솔루션 개발에 참여하였습니다</li>
+    <li>포지션: 게스트사이트, 게시판, 일정관리 및 이슈관리 툴 풀스택 개발</li>
   </ul>
   <ul>
     <code>외주</code> [2020.06 ~ 2020.09]
