@@ -1,8 +1,12 @@
 <div align=center>
 
 ## 팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다.
-  
+
+### (주)엠티커뮤니케이션 에서 java 서버 개발 및 react 웹 프론트를 담당하고 있습니다.
+
+<!--
 ### (주)뭉치 에서 시스템 관제, mysql/maria 및 node api, 웹 프론트를 담당하고 있습니다.
+-->
   
 ## :paperclip: Profile
 펼쳐서 자세히보기
