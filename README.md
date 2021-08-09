@@ -138,7 +138,7 @@
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/afashs/ur-client)</li>
     <li>[영상설명](https://youtu.be/9JElFQuS2cE)</li>
-    <li>[서비스 링크](https://urtest.shop)</li>
+    <li>[서비스 링크](https://urtest.club)</li>
     
 ![1](https://user-images.githubusercontent.com/56165665/116329896-41f8e480-a807-11eb-8aaa-eb641da4f4c8.gif)
     
