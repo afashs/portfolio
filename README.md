@@ -4,7 +4,7 @@
 
 
 ### (주)엠티커뮤니케이션 에서 java,mysql/maria 및 node api 서버 개발,
-	react 웹 프론트를 담당하고 있습니다.
+react 웹 프론트를 담당하고 있습니다.
 <!--
 ### (주)뭉치 에서 시스템 관제, mysql/maria 및 node api, 웹 프론트를 담당하고 있습니다.
 -->
