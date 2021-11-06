@@ -13,7 +13,7 @@
 
 </div>
 <details open>
-  <summary>:octocat: <b>인적사항</b></summary>
+  <summary><b>인적사항</b></summary>
   <ul>
     <li>이름 : 서정욱</li>
     <li>생년월일 : 1994. 02. 11 </li>
@@ -22,8 +22,8 @@
     <li>주소 : 서울특별시 강남구 개포동 </li>
   </ul>
 </details>
-<details open>
-  <summary>:four_leaf_clover: <b>자기소개</b></summary>
+<details>
+  <summary><b>자기소개</b></summary>
   JavaScript를 주력 언어로 사용하는 개발자입니다.  
   
   주로 백엔드 포지션으로 linux서버, mysql, restapi를 주로 담당 하였으며  
@@ -48,58 +48,58 @@
 
 </div>
 
-<details open>
+<details>
   <summary>Programming Language</summary>
   <ul>
     <li> JavaScript, PHP, Java </li>
   </ul>
 
 </details>
-<details open>
+<details>
   <summary>UI / UX Library</summary>
   <ul>
     <li>React, Tailwind, SCSS</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>FrameWork</summary>
   <ul>
     <li>Spring, CodeIgnitor, GnuBoard</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>Statement Management</summary>
   <ul>
     <li>Jquery, Redux</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>Database</summary>
   <ul> 
     <li>mysql, mssql</li>
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>Deploy</summary>
   <ul>
     <li>AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>일정관리</summary>
   <ul>
     <li>Trello, GitHub Project</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>버전관리</summary>
   <ul>
     <li>Git, SVN</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>디자인협업</summary>
   <ul>
     <li>Figma</li>
@@ -270,7 +270,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>:mortar_board: <b>Education</b></summary>
   <ul>
         <li><a href="https://www.hycu.ac.kr/user/maSnEx/goMain/30058/index.do">한양사이버대학교 응용소프트웨어공학과 </a> [ 2021 ~ 학 ] </li>
@@ -287,7 +287,7 @@
 
 </div>
 
-<details open>
+<details>
   <summary><b>자격증</b></summary>
   <ul>
     <li>정보기기 운용 기능사 [ 2010. 05 ]</li>
