@@ -262,7 +262,7 @@
 
 </div>
 
-<details open>
+<details>
   <summary>:green_book: <b>CS Learning</b></summary>
   <ul>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
