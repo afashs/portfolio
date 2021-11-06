@@ -51,20 +51,20 @@
 <details>
   <summary>Programming Language</summary>
   <ul>
-    <li>JavaScript, PHP</li>
+    <li> JavaScript, PHP, Java </li>
   </ul>
 
 </details>
 <details>
   <summary>UI / UX Library</summary>
   <ul>
-    <li>React, Bootstrap, SCSS</li>
+    <li>React, Tailwind, SCSS</li>
   </ul>
 </details>
 <details>
   <summary>FrameWork</summary>
   <ul>
-    <li>CodeIgnitor, GnuBoard</li>
+    <li>Spring, CodeIgnitor, GnuBoard</li>
   </ul>
 </details>
 <details>
@@ -77,7 +77,7 @@
 <details>
   <summary>Database</summary>
   <ul> 
-    <li>Oracle, mariaDB</li>
+    <li>mysql, mssql</li>
   </ul>
 </details>
 
