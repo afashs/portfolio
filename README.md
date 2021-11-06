@@ -22,7 +22,7 @@
     <li>주소 : 서울특별시 강남구 개포동 </li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>:four_leaf_clover: <b>자기소개</b></summary>
   <ul>
     <code>팀워크</code>
@@ -48,58 +48,58 @@
 
 </div>
 
-<details>
+<details open>
   <summary>Programming Language</summary>
   <ul>
     <li> JavaScript, PHP, Java </li>
   </ul>
 
 </details>
-<details>
+<details open>
   <summary>UI / UX Library</summary>
   <ul>
     <li>React, Tailwind, SCSS</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>FrameWork</summary>
   <ul>
     <li>Spring, CodeIgnitor, GnuBoard</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>Statement Management</summary>
   <ul>
     <li>Jquery, Redux</li>
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>Database</summary>
   <ul> 
     <li>mysql, mssql</li>
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>Deploy</summary>
   <ul>
     <li>AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL)</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>일정관리</summary>
   <ul>
     <li>Trello, GitHub Project</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>버전관리</summary>
   <ul>
     <li>Git, SVN</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>디자인협업</summary>
   <ul>
     <li>Figma</li>
@@ -112,7 +112,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary>블록체인 예술품 NFT 경매사이트</summary>
   <ul>
     <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
@@ -122,13 +122,12 @@
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/afashs/exit-client)</li>
     <li>[영상설명](https://youtu.be/uBEj5ZkDewI)</li>
-    <li>[서비스 링크](https://www.exitgift.shop)</li>
     
 ![2021-04-28 09 54 40](https://user-images.githubusercontent.com/56165665/116330128-d19e9300-a807-11eb-9ece-229c7bf7e948.png)
 
   </ul>
 </details>
-<details>
+<details open>
   <summary>이상형월드컵, 밸런스게임 사이트</summary>
   <ul>
     <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
@@ -138,13 +137,12 @@
     <li>사용언어 : JavaScript</li>
     <li>[프로젝트 소개](https://github.com/afashs/ur-client)</li>
     <li>[영상설명](https://youtu.be/9JElFQuS2cE)</li>
-    <li>[서비스 링크](https://urtest.club)</li>
     
 ![1](https://user-images.githubusercontent.com/56165665/116329896-41f8e480-a807-11eb-8aaa-eb641da4f4c8.gif)
     
   </ul>
 </details>
-<details>
+<details open>
   <summary>수족관 웹게임(Canvas)</summary>
   <ul>
     <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
@@ -159,7 +157,7 @@
 
   </ul>
 </details>
-<details>
+<details open>
   <summary>춤동호회 웹페이지 (PHP)</summary>
   <ul>
     <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
@@ -170,7 +168,7 @@
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>맛집 어플 (안드로이드)</summary>
   <ul>
     <li>해시태그 기능을 도입한 맛집찾기 어플입니다.</li>
@@ -183,7 +181,7 @@
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>낚시 게임 (콘솔)</summary>
   <ul>
     <li>인원 : 개인</li>
@@ -195,7 +193,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>기술 컨퍼런스</summary>
   <ul>
     <li>인원 : 개인</li>
@@ -214,7 +212,7 @@
 </div>
 
 
-<details>
+<details open>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
   <ul>
     <code>(주)엠티커뮤니케이션</code> [2021.07 ~ ]
@@ -249,7 +247,7 @@
   </ul>
   
 </details>
-<details>
+<details open>
   <summary>:airplane: <b>공군 부사관 [2012.03 ~ 2019.05]</b></summary>
   <ul>
     <li>공중감시 및 항공무기통제담당</li>
@@ -264,7 +262,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary>:green_book: <b>CS Learning</b></summary>
   <ul>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
@@ -272,7 +270,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>:mortar_board: <b>Education</b></summary>
   <ul>
         <li><a href="https://www.hycu.ac.kr/user/maSnEx/goMain/30058/index.do">한양사이버대학교 응용소프트웨어공학과 </a> [ 2021 ~ 학 ] </li>
@@ -289,7 +287,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary><b>자격증</b></summary>
   <ul>
     <li>정보기기 운용 기능사 [ 2010. 05 ]</li>
