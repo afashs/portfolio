@@ -1,6 +1,6 @@
 <div align=center>
 
-## 팀워크, 트랜드, 퍼포먼스를 추구하는 JavaScript 개발자 서정욱입니다.
+## JavaScript 개발자 서정욱입니다.
 
 
 ### (주)엠티커뮤니케이션 에서 java, mysql, linux 서버 백엔드, react 웹 프론트를 담당하고 있습니다.
@@ -24,21 +24,21 @@
 </details>
 <details open>
   <summary>:four_leaf_clover: <b>자기소개</b></summary>
-  <ul>
-    <code>팀워크</code>
-    <li>문서화, 대화의 중요성, 사소한 갑론을박에 목메이지 않습니다.</li>
-    <li>소통과 협업에 많은 시간을 투자할수록 모두가 만족할 만한 결과가 나옵니다.</li>
-  </ul>
-  <ul>
-    <code>트랜드</code>
-    <li>남들이 그렇다 하더라 라는 말보다 직접 써보는 것을 좋아합니다. </li>
-    <li>새로운 기술에 겁없이 뛰어들고 고통받지만 이 과정 때문에 코딩을 좋아합니다</li>
-  </ul>
-  <ul>
-    <code>퍼포먼스</code>
-    <li>트랜드를 좋아하는 반면, 기능의 핵심적인 본질에 집중합니다.</li>
-    <li>퍼포먼스를 올리는 방법을 연구하는 것을 좋아합니다</li>
-  </ul>
+  JavaScript를 주력 언어로 사용하는 개발자입니다.  
+  
+  주로 백엔드 포지션으로 linux서버, mysql, restapi를 주로 담당 하였으며  
+  
+  프론트엔드는 파일업로드, 회원가입이나 로그인(세션관리, oauth등), api데이터 매핑 위주의 단위기능 개발 업무를 수행하였습니다  
+  
+  현재는 spring 백엔드 및 react 프론트엔드 담당으로 스마트팩토리 관련 프로젝트에 참여하고 있으며  
+  
+  [PHP] PMS솔루션(CodeIgnitor), ubuntu서버운영(시스템 관제)  
+  
+  [JAVA] Spring 기반 REST_API  
+  
+  [JavaScript] Express 기반 REST_API, React 기반 웹  
+  
+  프로젝트 등의 실무에 참여한 경험이 있습니다.
 </details>
 
 
