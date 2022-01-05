@@ -2,7 +2,7 @@
 
 ## JavaScript 개발자 서정욱입니다.
 
-### (주)엠티커뮤니케이션 에서 java, mysql, linux 서버 백엔드, react 웹 프론트를 담당하고 있습니다.
+### (주)카카오엔터프라이즈 에서 카카오워크 백엔드 개발을 담당하고 있습니다.
   
 ## :paperclip: Profile
 펼쳐서 자세히보기
@@ -211,9 +211,14 @@
 <details open>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
   <ul>
-    <code>(주)엠티커뮤니케이션</code> [2021.07 ~ ]
+    <code>(주)카카오엔터프라이즈</code> [2022.01 ~ ]
+    <li>백엔드 담당</li>
+    <li>2022.01 ~ (재직중)</li>
+  </ul>
+  <ul>
+    <code>(주)엠티커뮤니케이션</code> [2021.07 ~ 2021. 12]
     <li>java 백엔드, react 프론트 담당</li>
-    <li>2021.07 ~ (재직중)</li>
+    <li>2021.07 ~ 2021.12</li>
     <li>사용언어 : java, JavaScript</li>
     <li>플랫폼 : Spring, NodeJS </li>
     <li>요약 : 스마트 팩토리 프로젝트 진행 중</li>
