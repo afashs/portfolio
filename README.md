@@ -21,7 +21,6 @@
 <details>
   <summary><b>자기소개</b></summary>
   클라우드 생태계에 관심이 많은 웹 개발자입니다.  
-  <summary><b>자기소개</b></summary>
   
   주로 백엔드 포지션으로 linux서버, mysql, restapi를 주로 담당 하였으며 필요에 따라 컴포넌트 기반 웹 SPA 프레임워크를 사용하기도 합니다
   
