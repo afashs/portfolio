@@ -22,20 +22,19 @@
   <summary><b>자기소개</b></summary>
   
   
-  kotlin과 python을 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다. 
-  주로 백엔드 포지션으로 linux서버, mysql, rest api,
-  클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며
-  최근 하둡기반 데이터 엔지니어링 업무를 수행하고 있습니다
+  kotlin과 python을 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다.  
+  주로 백엔드 포지션으로 linux서버, mysql, rest api,  
+  클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며. 
+  최근 하둡기반 데이터 엔지니어링 업무를 수행하고 있습니다  
 
-  현재는 spring 백엔드 및 하둡기반 airflow, spark를 사용한
-  data engineering담당으로 카카오 워크 프로젝트에 참여하고 있으며
+  현재는 spring 백엔드 및 하둡기반 airflow, spark를 사용한  
+  data engineering담당으로 카카오 워크 프로젝트에 참여하고 있으며  
 
-  [k8s] 클러스터 운영 및 단일 VM노드 구축 / 운영
-  [python] jupyterhub 및 데이터 엔지니어링 인프라 구축 및 운영
-  [PHP] PMS솔루션(CodeIgnitor), ubuntu서버운영(시스템 관제)
-  [JAVA, kotlin] Spring 기반 REST_API
-  [JavaScript] Express 기반 REST_API, React 기반 웹
-  프로젝트 등의 실무에 참여한 경험이 있습니다.
+  [k8s] 클러스터 운영 및 단일 VM노드 구축 / 운영  
+  [python] jupyterhub 및 데이터 엔지니어링 인프라 구축 및 운영  
+  [PHP] PMS솔루션(CodeIgnitor), ubuntu서버운영(시스템 관제)  
+  [JAVA, kotlin] Spring 기반 REST_API  
+  [JavaScript] Express 기반 REST_API, React 기반 웹 프로젝트 등의 실무에 참여한 경험이 있습니다.
 </details>
 
 
