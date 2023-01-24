@@ -9,13 +9,6 @@
 
 </div>
 <details open>
-  <summary><b>인적사항</b></summary>
-  <ul>
-    <li>이름 : 서정욱</li>
-    <li>생년월일 : 1994. 02. 11 </li>
-    <li>연락처 : 010-4221-5066 </li>
-    <li>이메일 : dev.afashs@gmail.com </li>
-    <li>주소 : 서울특별시 강남구 개포동 </li>
   </ul>
 </details>
 <details>
