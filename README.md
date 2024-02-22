@@ -109,7 +109,9 @@
     <li>플랫폼 : Web</li>
     <li>사용언어 : JavaScript</li>
     <li>React, Express, Mariadb, Redis, 웹소켓, RabbitMq 등을 사용하여 보안 및 실시간 최적화 대응 가능</li>
-    ![2024-02-22 15 57 58](https://github.com/afashs/portfolio/assets/56165665/98cd12b2-7d18-4526-ba28-82c93e2bb9d7)
+
+![2024-02-22 15 57 58](https://github.com/afashs/portfolio/assets/56165665/98cd12b2-7d18-4526-ba28-82c93e2bb9d7)
+
 ![2024-02-22 15 58 11](https://github.com/afashs/portfolio/assets/56165665/6cbb0ba1-22e3-406c-945f-890a18efd00c)
 
 
