@@ -99,6 +99,23 @@
 
 </div>
 
+
+<details open>
+  <summary>스포츠 토토 솔루션</summary>
+  <ul>
+    <li>대용량 스포츠데이터 사용, node기반 배팅, 정산 및 어드민, 클라이언트 풀스택 개발</li>
+    <li>인원: 개인</li>  
+    <li>포지션: 풀스택 / 팀장</li>  
+    <li>플랫폼 : Web</li>
+    <li>사용언어 : JavaScript</li>
+    <li>React, Express, Mariadb, Redis, 웹소켓, RabbitMq 등을 사용하여 보안 및 실시간 최적화 대응 가능</li>
+    ![2024-02-22 15 57 58](https://github.com/afashs/portfolio/assets/56165665/98cd12b2-7d18-4526-ba28-82c93e2bb9d7)
+![2024-02-22 15 58 11](https://github.com/afashs/portfolio/assets/56165665/6cbb0ba1-22e3-406c-945f-890a18efd00c)
+
+
+  </ul>
+</details>
+
 <details open>
   <summary>블록체인 예술품 NFT 경매사이트</summary>
   <ul>
@@ -202,9 +219,12 @@
 <details open>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
   <ul>
-    <code>(주)카카오엔터프라이즈</code> [2022.01 ~ ]
+    <code>코딩 과외학원 아지트 대표</code> [2023.04 ~ 2024.02]
+    <li>코딩강사 및 외주활동</li>
+  </ul>
+  <ul>
+    <code>(주)카카오엔터프라이즈</code> [2022.01 ~ 2023.02]
     <li>백엔드 담당</li>
-    <li>2022.01 ~ (재직중)</li>
   </ul>
   <ul>
     <code>(주)엠티커뮤니케이션</code> [2021.07 ~ 2021. 12]
