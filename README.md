@@ -226,7 +226,7 @@
   </ul>
   <ul>
     <code>(주)카카오엔터프라이즈</code> [2022.01 ~ 2023.02]
-    <li>백엔드 담당</li>
+    <li>kotlin, spring boot 백엔드 / react 프론트 / python 기반 ai인프라 / 카카오클라우드 기반 devops 담당</li>
   </ul>
   <ul>
     <code>(주)엠티커뮤니케이션</code> [2021.07 ~ 2021. 12]
