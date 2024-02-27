@@ -1,6 +1,6 @@
 <div align=center>
 
-## javascript 기반 개발자 서정욱입니다.
+## javascript 개발자 서정욱입니다.
 
 ### (주)카카오엔터프라이즈 에서 카카오워크 백엔드 개발
 ### 아지트 코딩학원 대표
@@ -13,8 +13,7 @@
 <details open>
   <summary><b>자기소개</b></summary>
   
-  
-  kotlin과 python을 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다.  
+  javascript를 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다.  
   주로 백엔드 포지션으로 linux서버, mysql, rest api,  
   클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며. 
   최근 하둡기반 데이터 엔지니어링 업무를 수행하고 있습니다  
