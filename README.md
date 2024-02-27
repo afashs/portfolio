@@ -8,7 +8,7 @@
 펼쳐서 자세히보기
 
 </div>
-<details>
+<details open>
   <summary><b>자기소개</b></summary>
   
   
@@ -34,56 +34,56 @@
 
 </div>
 
-<details>
+<details open>
   <summary>Programming Language</summary>
   <ul>
     <li>JavaScript, Java, kotlin, python </li>
   </ul>
 
 </details>
-<details>
+<details open>
   <summary>UI / UX Library</summary>
   <ul>
     <li>React, Tailwind, SCSS</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>FrameWork</summary>
   <ul>
     <li>Spring Boot, React</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>Statement Management</summary>
   <ul>
     <li>ReactContext, Redux</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>cloud</summary>
   <ul>
     <li>AWS(EC2, RDS, S3, ELB, CloudFront, Route53, SSL), kakao i cloud, Google Cloud platform</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>Database</summary>
   <ul> 
     <li>mysql, mssql</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>일정관리</summary>
   <ul>
     <li>Trello, GitHub Project, jira</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>버전관리</summary>
   <ul>
     <li>Git, SVN</li>
   </ul>
 </details>
-<details>
+<details open>
   <summary>디자인협업</summary>
   <ul>
     <li>Figma</li>
@@ -273,7 +273,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary>:green_book: <b>CS Learning</b></summary>
   <ul>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
@@ -281,7 +281,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary>:mortar_board: <b>Education</b></summary>
   <ul>
         <li><a href="https://www.hycu.ac.kr/user/maSnEx/goMain/30058/index.do">한양사이버대학교 응용소프트웨어공학과 </a> [ 2021 ~ 학 ] </li>
@@ -298,7 +298,7 @@
 
 </div>
 
-<details>
+<details open>
   <summary><b>자격증</b></summary>
   <ul>
     <li>정보처리기사 [ 2021. 11 ]</li>
