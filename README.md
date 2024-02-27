@@ -8,9 +8,6 @@
 펼쳐서 자세히보기
 
 </div>
-<details open>
-  </ul>
-</details>
 <details>
   <summary><b>자기소개</b></summary>
   
